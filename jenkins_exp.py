@@ -1,6 +1,6 @@
 from flask import Flask
 
-app = Flask(_name_)
+app = Flask(__name__)
 
 @app.route("/", methods=["GET"])
 def home():
@@ -15,4 +15,4 @@ def contact_us():
     return "Here you can find information about how to contact us."
 
 if __name__ == '__main__':
-    app.run(port=5005)
+    app.run(port=5005, host='0.0.0.0')
