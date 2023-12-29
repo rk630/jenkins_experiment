@@ -14,5 +14,5 @@ def about_us():
 def contact_us():
     return "Here you can find information about how to contact us."
 
-if(_name) == "__main_":
-    app.run(debug=True)
+if __name__ == '__main__':
+    app.run(port=5005)
