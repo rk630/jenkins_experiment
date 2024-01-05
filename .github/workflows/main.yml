@@ -1,5 +1,4 @@
 name: Python Application CI/CD
-             
 on:
   push:
     branches:
