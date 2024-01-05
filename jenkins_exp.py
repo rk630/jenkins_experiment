@@ -15,4 +15,4 @@ def contact_us():
     return "Here you can find information about how to contact us."
 
 if __name__ == '__main__':
-    app.run(port=5005, host='0.0.0.0')
+    app.run(port=5010, host='0.0.0.0')
