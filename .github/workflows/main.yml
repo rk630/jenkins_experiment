@@ -40,6 +40,6 @@ jobs:
         script: | 
           cd /home/ubuntu/
           git clone https://github.com/rk630/jenkins_experiment.git
-          # sudo apt install -y python3-pip
-          # sudo pip install flask
+          sudo apt install -y python3-pip
+          sudo pip install flask
           sudo python3 /home/ubuntu/jenkins_experiment/jenkins_exp.py    
