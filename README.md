@@ -3,19 +3,17 @@
 
 ## Jenkins CI CD pipeline for flask application
 
-Objective:
+### Objective:
+
 Set up a Jenkins pipeline that automates the testing and deployment of a simple Python web application.
 
-
-Requirements:
-
+### Requirements:
 
 1. Setup:
 
    - Install Jenkins on a virtual machine or use a cloud-based Jenkins service.
 
    - Configure Jenkins with Python and any necessary libraries.
-
 
 2. Source Code:
 
@@ -44,29 +42,19 @@ Requirements:
 
    - Configure the pipeline to trigger a new build whenever changes are pushed to the main branch of the repository.
 
-
 5. Notifications:
 
    - Set up a notification system to alert via email when the build process fails or succeeds.
-
-
-Deliverables:
-
-- Forked GitHub repository with Jenkinsfile.
-
-- Documentation in README.md.
-
-- Screenshots of the Jenkins pipeline execution.
-
+![image](https://github.com/rk630/jenkins_experiment/assets/139606316/ff9ee91b-3d39-42db-8c2c-7b138e8852fc)
+![image](https://github.com/rk630/jenkins_experiment/assets/139606316/dee76873-4f73-48b2-9427-87d824c91895)
 
 ## GitHub Actions CI/CD Pipeline Flask App
 
-Objective:
+### Objective:
 
-Implement a CI/CD workflow using GitHub Actions for a Python application.
+# Implement a CI/CD workflow using GitHub Actions for a Python application.
 
-
-Requirements:
+## Requirements:
 
 
 1. Setup:
@@ -102,9 +90,6 @@ Requirements:
 
    - Use GitHub Secrets to store sensitive information required for deployments (e.g., deployment keys, API tokens).
 
-
 ![Screenshot 2024-01-05 133346](https://github.com/rk630/jenkins_experiment/assets/139606316/c9a6a750-c538-4c2d-8bb5-21fdf5defcf1)
-
-
 
 ![image](https://github.com/rk630/jenkins_experiment/assets/139606316/7f79b8c0-aa56-41ce-9133-4718a15f78d3)
