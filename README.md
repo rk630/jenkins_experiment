@@ -1,11 +1,8 @@
-
-# jenkins_experiment
-
-## Jenkins CI CD pipeline for flask application
+# Jenkins CI CD pipeline for flask application
 
 ## Objective:
 
-### Set up a Jenkins pipeline that automates the testing and deployment of a simple Python web application.
+#### Built a Jenkins pipeline that automates the testing and deployment of a simple Python web application.
 
 ## Requirements:
 
@@ -52,7 +49,7 @@
 
 ## Objective:
 
-### Implement a CI/CD workflow using GitHub Actions for a Python application.
+#### Implement a CI/CD workflow using GitHub Actions for a Python application.
 
 ## Requirements:
 
